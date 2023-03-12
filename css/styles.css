@@ -94,17 +94,18 @@ hr{
 
 }
 
-.sun{
+.material-icons.sun{
     position: absolute;
     left:30px;
     top:20px;
     height:100px;
-    width:100px
+    width:100px;
+    font-size: 96px;
 }
 .btm-cloud{
     position: absolute;
     left:260px;
-    top:300px;
+    top:270px;
 }
 .top-cloud{
     position:absolute;
@@ -112,12 +113,13 @@ hr{
     top: 80px;
 }
 
-.bird{
+.material-icons.bird{
     position: absolute;
     right:37%;
     top:48%;
     height:80px;
-    width:80px
+    width:80px;
+    font-size: 48px;
 }
 a, h3{
     color: #11999E;
